@@ -22,6 +22,7 @@ img {
   width: 90%;
   border-radius: 2%;
   transition: .5s;
+  max-width: 693px;
 }
 
 img:hover {
